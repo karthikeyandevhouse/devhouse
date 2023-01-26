@@ -1,0 +1,57 @@
+body {
+    background-image: url('./images/Rectangle\ 2.png');
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: hidden; 
+}
+
+.left-head {
+    padding-left: 120px !important;
+    padding-top: 50px;
+    color: white;
+
+}
+
+.text-primary {
+    border-radius: 6px !important;
+    border-color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: 60px !important;
+}
+
+h1 {
+    padding-bottom: 50px;
+}
+
+.right-para {
+
+    padding-left: 220px;
+}
+
+.right-head {
+    text-align: right;
+    padding-right: 60px !important;
+    padding-top: 50px;
+}
+
+.b1 {
+    background-color: #005AD5;
+    border-color: #005AD5;
+
+}
+#tx{
+    font-size: 25px;
+    padding-left: 90px;
+}
+
+.hd {
+    font-family: 'Black Ops One', cursive;
+    color: white;
+}
+.bottom{
+ 
+    position: fixed;
+    bottom: 0%;
+    width: -webkit-fill-available;
+}
